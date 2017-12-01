@@ -12,4 +12,14 @@
 }
 
 /*Write your CSS rules below!*/
-
+h2 {
+    color: #4578cc;
+      text-align: center;
+   font-family: "Oswald"
+}
+code {
+    color:red;
+}
+container {
+    font-family: "Crimson Text";
+}
